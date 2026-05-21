@@ -1,0 +1,11 @@
+{
+  "apple_driver": {
+    "name": "iTunesSetup.exe",
+    "download_url": "https://your-direct-link.com/iTunesSetup.exe"
+  },
+
+  "adb_driver": {
+    "name": "ADB-Fastboot.zip",
+    "download_url": "https://your-direct-link.com/ADB-Fastboot.zip"
+  }
+}
