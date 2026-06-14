@@ -1,7 +1,7 @@
 {
   "apple_driver": {
     "name": "iTunesSetup.exe",
-    "download_url": "https://download1085.mediafire.com/ytp7pwrkyhagRcofGOsi4636HzI2W7S_mZ-_7Jk5wGo-_LNtS1QeSVML9r4kMXWz-RvzWzRi0pdJAIDLfremJjmNmdoAeww_HDn63i-KNQQuzEcSmq6pJhazIX2eHY8a3xmTIPOhaQFSd50G2LB34IIH1QHsIqIyDIiGGHDLiVderg/w6o2zwth66no2q5/AppleMobileDeviceSupport64.msi"
+    "download_url": "https://github.com/iSGM-Tool/Activation-files/releases/download/1/AppleMobileDeviceSupport64.msi"
   },
 
   "adb_driver": {
